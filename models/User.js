@@ -15,7 +15,8 @@ class User {
 
     static TYPE = {
         STUDENT: "student",
-        TEACHER: 'teacher'
+        TEACHER: 'teacher',
+        CR: "cr"
     } 
 
     /**
