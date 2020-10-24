@@ -53,3 +53,5 @@ class User {
         //implement logic to return User object by reading firestore doc
     }
 }
+
+module.exports = User;
